@@ -2,6 +2,7 @@
 /magento_version
 /setup
 /setup/index.php
+/magento/app/etc/local.xml
 /admin
 /app/etc/env.php
 /var/log/system.log
